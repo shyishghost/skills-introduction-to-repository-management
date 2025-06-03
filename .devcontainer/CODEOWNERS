@@ -1,7 +1,0 @@
-# Core functionality - changes here should be rare!
-/src/app.py                   @shyishghost
-/src/backend/database.py      @shyishghost
-/src/backend/routers/auth.py  @shyishghost
-
-# The frontend will need refactored soon to be more object oriented.
-/src/static/   @shyishghost
